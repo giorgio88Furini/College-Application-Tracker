@@ -1,12 +1,14 @@
 # Applications
 
-> Public tracker: school names, statuses, deadlines, and next actions recorded here are visible to anyone. Keep entries minimal and evidence-based.
-
-No application records have been added yet. The Trigger will seed this ledger from relevant Gmail evidence on its first matching run.
+> **Public tracker:** school names, statuses, deadlines, and next actions recorded here are visible to anyone. Keep entries minimal and evidence-based.
+>
+> **Coverage note:** This is an email-evidence snapshot, not a verified complete list of applications. Generic recruitment messages do not confirm an application or the user's intent to apply. Confirm unknowns in the official applicant portal or with admissions.
 
 | School | Program | Entry term | Confirmed status | Last update | Next action | Who acts | Deadline (include time zone) | Missing materials | Evidence (email subject and date only) |
 |---|---|---|---|---|---|---|---|---|---|
+| Tetr College of Business | Undergraduate program; exact program needs confirmation | Needs confirmation | Portal registration confirmed; no evidence that an application was submitted. | 2026-09-29 | Confirm whether you intend to apply and identify the program and entry term; if proceeding, complete and submit the application. | User | Not stated; needs confirmation | No checklist stated; portal requirements need confirmation. | “Welcome! You've successfully registered.” — 2026-09-29 |
+| Arizona State University | Undergraduate; specific program needs confirmation | Fall 2027 | Prospective only: ASU confirms the Fall 2027 application is open and invites a response about applying; no application submission or applicant-specific status is confirmed. | 2026-10-14 | Confirm whether you intend to apply and choose a program; if proceeding, check the official application checklist and submit for priority review. | User | Nov 1, 2026 (priority deadline; year inferred from the Fall 2027 cycle; time zone not stated) | No applicant-specific missing materials stated; check the ASU application checklist if applying. | “ASU’s fall 2027 application is now open” — 2026-07-07; “Your future is at ASU.” — 2026-10-14 |
+| Arizona State University — Barrett, The Honors College | Honors College | Fall 2027 | Prospective only; no ASU or Barrett application submission is confirmed. Barrett's email says the ASU admission application comes first. | 2026-09-17 | If interested, confirm whether the ASU application has been submitted and contact Barrett promptly about the current route to apply: the email says ASU materials on file by the end of September improves the opportunity, and that date has passed. | User | Nov 1, 2026 (Barrett Early Action; year inferred from the Fall 2027 cycle; time zone not stated). The email also recommends ASU materials on file by end of September 2026 (year inferred; passed; exact date/time zone not stated). | No applicant-specific checklist stated. Barrett's email says ASU admission materials should be on file first; confirm current requirements with Barrett. | “Barrett's fall 2027 application is open” — 2026-09-17 |
 
 ## Change log
-
-No changes recorded yet.
+- 2026-10-27: Initial targeted Gmail backfill. Added Tetr portal-registration evidence and prospective ASU Fall 2027 and Barrett Honors entries. No submitted application, admission decision, or personalized missing-material notice was confirmed. Generic promotions and unrelated messages were excluded.
